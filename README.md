@@ -12,7 +12,7 @@ This is a simple real-time chat application built with Node.js, Express, and Soc
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/romeo-iii/chat-app.git
+    git clone https://github.com/romeo-iii/ChatterHub.git
     cd chat-app
     ```
 
